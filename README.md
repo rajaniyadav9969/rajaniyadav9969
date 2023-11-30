@@ -8,16 +8,18 @@
 
 ### About Me
 
-- 🔭 Working at [Finrise Softech](https://phoenix.tech/griffyn/)
-- 🌱 Currently working on a Web App 
-- 📄 [Resume]
-
-<br/>
-
+- 🔭 Working at [Finrise Softech Pvt. Ltd]
+- 🌱 Currently working on a **Rms website**
+- 💬 Ask me about **ReactJs, HTML, CSS, Scss, Scss Module, React Bootstrap, Js**
+- 📄 [Resume](https://github.com/rajaniyadav9969/rajaniyadav9969/blob/main/RajaniKeshavYadav.pdf)
 
 
-📫 How to reach me
-<br>
-<br>
+
+### 📫 How to reach me
 <a href="www.linkedin.com/in/rajani-yadav-758225183/">![rajani-yadav-758225183 on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="mailto:rajaniyadav9968@gmail.com">![rajaniyadav9968@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<br>
+
+
+
