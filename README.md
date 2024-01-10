@@ -17,7 +17,7 @@
 
 ### 📫 How to reach me
 <a href="https://www.linkedin.com/in/rajani-yadav-758225183/" target="_blank">![rajani-yadav-758225183 on LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:rajaniyadav9969@gmail.com" target="balnk">![rajaniyadav9969@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:rajaniyadav9969@gmail.com" >![rajaniyadav9969@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <br>
 
