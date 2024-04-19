@@ -10,7 +10,7 @@
 
 - 🔭 Working at [Finrise Softech Pvt. Ltd]
 - 🌱 Currently working on a **Rms website**
-- 💬 Ask me about **ReactJs, HTML, CSS, Scss, Scss Module, React Bootstrap,Bootstrap, Js,Responsive Web Design,Web Technologies **
+- 💬 Ask me about **ReactJs, HTML, CSS, Scss, Scss Module, React Bootstrap, Bootstrap, Js, Responsive Web Design, Web Technologies **
 - 📄 [Resume](https://github.com/rajaniyadav9969/rajaniyadav9969/blob/main/RajaniKeshavYadav.pdf)
 
 
